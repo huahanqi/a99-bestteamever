@@ -81,3 +81,14 @@ a:hover{
 #goback:hover{
     background-color: yellow;
 }
+
+#wrong_back{
+    float: right;  
+    background-color: white; 
+    position: relative;
+    right: 600px;
+}
+
+#wrong_back:hover{
+    background-color: yellow;
+}
